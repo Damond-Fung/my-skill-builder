@@ -1,0 +1,20 @@
+{
+  "name": "my-skill-builder",
+  "version": "0.1.0",
+  "private": false,
+  "description": "Builds complete custom skills from rough ideas. Invoke when a user wants to create, structure, refine, scaffold, or publish a skill with the right template and execution layer.",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "agent-skill",
+    "my-skill-builder",
+    "hybrid",
+    "meta-skill",
+    "workflow-executor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Damond-Fung/my-skill-builder.git"
+  },
+  "homepage": "https://github.com/Damond-Fung/my-skill-builder"
+}
