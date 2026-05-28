@@ -1,5 +1,7 @@
 # My Skill Builder
 
+[English](./README.md) | [中文文档](./README.zh-CN.md)
+
 Builds complete custom skills from rough ideas. Invoke when a user wants to create, structure, refine, scaffold, or publish a skill with the right template and execution layer.
 
 ## Why This Skill
